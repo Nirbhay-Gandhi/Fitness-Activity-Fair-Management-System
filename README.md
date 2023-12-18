@@ -1,4 +1,7 @@
 # Fitness-Activity-Fair-Management-System
+<h3><i><u>Course Credits </u></i></h3>
+<h3>DATABASE MANAGEMENT SYSTEM (CSE2004) </h3>  
+
 Fitness activity fair management system. Project for DBMS course, where I have careted the relational database for a hypothetical 
 on-campus hosted fitness activity fair.
 
